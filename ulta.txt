@@ -1,7 +1,7 @@
 #profile-title:Ulta VPN
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
-#announce:Привет из РКН
+#announce:by Mikko for You
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #hide-settings: true
 vless://fef4d831-dac1-40aa-9ac5-da517ad5748b@catsecret.catlove.qzz.io:5443?mode=gun&security=reality&encryption=none&authority=catsecret.catlove.qzz.io&pbk=LeGoKhqaKrmtejsRi2mNbZPSuI3YOD08GhYsbC1x5A4&fp=chrome&spx=%2F&type=grpc&serviceName=catsecret.catlove.qzz.io&sni=catsecret.catlove.qzz.io&sid=46174a21#%F0%9F%87%B7%F0%9F%87%BA%20Russia
